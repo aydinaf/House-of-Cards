@@ -64,13 +64,12 @@ int main() {
 
 	}
 	std::cout << ("\tAydin Azari Farhad \tJan 13th, 2019\n");
-	system("echo its show time!!!		PRESS ENTER"); 
+	system("echo it is show time!!!		PRESS ENTER"); 
 	std::cin.get();
-	while (true) //how to break this without get char<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+	while (true) //infinite loop of light dance
 	{
 		system("color c"); system("color c"); system("color a"); system("color a");
 	}
-	return (0); //anything after this will not be executed?? <<<<<<<<<<<<<<<<<<<<<<<<<<<<
-	//getchar(); //why does this not work? <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+	return (0);
 }
 // <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
